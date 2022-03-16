@@ -1,2 +1,2 @@
 # Wumpus_Game
-# Classic wumpus game using C++ to develop
+Classic wumpus game using C++ to develop
