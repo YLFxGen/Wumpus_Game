@@ -1,0 +1,14 @@
+********************************************************************************************************************
+  Movement:
+********************************************************************************************************************
+To move around the cavern : MOVE direction (direction is one of [N,S,W,E] for example : MOVE W)
+
+********************************************************************************************************************
+  Attack:
+********************************************************************************************************************
+Shoot an arrow into an adjacent cave (direction is one of [N,S,W,E] for example : SHOOT W)
+********************************************************************************************************************
+  Item:
+********************************************************************************************************************
+Open the map of the cavern : MAP (This instruction is invalid unless the player get the map. Map will be in one of
+twenty caves. Player will automatically pick up map and get notification if player is in the same room as map)

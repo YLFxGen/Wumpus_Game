@@ -1,0 +1,25 @@
+***************************************************************
+How to play:
+***************************************************************
+
+When entering the caverns, you have a lantern that has a limited
+amount of oil, and you are armed with a bow an 5 arrows. Each 
+turn, you may move to an adjacent cave, using [GO direction] 
+Direction is one of the 4 standard directions [N, S, E, W] ( 
+reduc your lantern oil) or shoot an arrow into an adjacent cave
+[SHOOT direction] (hopefully hitting the Wumpus and killing it).
+When you enter a new cave, if you are one cave away from the 
+Wumpus or a hazard, you will be given a clue indicating what is
+in one (or potentially more) of the caves leading from your 
+current location but not the direction in which it lies.
+- Bottomless Pits: they tend to be drafty, very deep and easy to
+fall into! They will just kill you outright, should you fall 
+into one. So, watch your step!
+- Super Bats: a colony of these bats makes an awful racket and
+are very protective of their domain. If you happen to wander 
+into their cave, they¡¯ll swam you and carry you off to some
+random cave within the caverns.
+- Wumpus: a nasty beast that smells really dreadful and sleeps
+a lot. If it¡¯s awake and you¡¯re in the same cave then you¡¯re its
+lunch ¡­ a truly horrible way to die. The Wumpus is not bothered 
+by pits or bats so is free to roam anywhere in the caverns.

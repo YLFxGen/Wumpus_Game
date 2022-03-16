@@ -1,0 +1,8 @@
+***************************************************************
+Victory condition:
+***************************************************************
+
+You win if you successfully shoot the Wumpus.
+You lose if your lantern runs out of oil, or you run out of 
+arrows, or you fall into a pit, or you end up in the same cave 
+as the Wumpus. 

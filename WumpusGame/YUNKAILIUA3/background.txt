@@ -1,0 +1,13 @@
+***************************************************************
+Background:
+***************************************************************
+
+"Well met, young adventurer and welcome to the peaceful realm 
+of Silven Valley. Actually, it used to be peaceful until the 
+Wumpus, a vile creature, took up residence in caverns nearby.
+It has been terrorising the villages all along the valley for 
+a long time now. So, the elders from the villages have banded 
+together to offer fame and fortune to the worthy adventurer who
+will rid their valley of this dreaded monster! You have 
+answered the call and have been told by the elders that the 
+creature is lurking in one of the cavern complexes in the surrounding hills. All you have to do is find the creature and slay them ... simple! Good luck!! You'll need it!"

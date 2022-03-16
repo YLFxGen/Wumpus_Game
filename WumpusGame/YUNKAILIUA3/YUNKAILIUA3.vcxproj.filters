@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GameDriver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Cave.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Wumpus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Cave.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Wumpus.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="background.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="howToPlay.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="victoryCondition.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="helpMenu.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="cave1.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="cave2.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="cave3.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="cave4.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="cave5.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="cave6.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="cave7.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="cave8.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="cave9.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="cave10.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="cave11.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="cave12.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="cave13.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="cave14.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="cave15.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="cave16.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="cave17.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="cave18.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="cave19.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="cave20.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="caveName.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="bottomlessPits.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="wumpus.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="bats.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="map.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
